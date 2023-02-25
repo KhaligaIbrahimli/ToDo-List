@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
+}
+
+.todoapp{
+    max-width: 500px;
+    min-height: 50px;
+    margin: 50px auto;
+    padding-bottom: 10px;
+    background: rgba(255,255,255, .4);
+    border-radius: 5px;
+    box-shadow: 0 0 4px #666666;
+}
+.header{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Josefin Slab';
+    color: #83b7d3;
+    font-size: 32px;
+}
+button{
+    background-color:#83b7d3;
+    border:1px solid #83b7d3;
+    border-radius: 5px !important;
+    padding: 6px;
+    color: white;
+    
+}
+#clear{
+    background-color: rgb(248, 176, 175);
+    color: whitesmoke;
+}
+#count{
+    background-color: #83b7d3;;
+}
